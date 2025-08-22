@@ -3,7 +3,7 @@
 Welcome to my GitHub Profile!
 
 ## 👨‍✈️ About Me
-- **Profession:** Aviation Enthusiast & Pilot  
+- **Profession:** Aviation Enthusiast & (To-be) Pilot  
 - **Tech Passion:** Computers & Technology (in general)
 
 ## 🚀 Skills
