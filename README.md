@@ -1,16 +1,23 @@
-## Hi there 👋
+# ✈️ Hi, I’m HiGuys293799!
 
-<!--
-**HiGuys293799/hiGuys293799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+## 👨‍✈️ About Me
+- **Profession:** Aviation Enthusiast & Pilot  
+- **Tech Passion:** Computers & Technology (in general)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Navigating both the skies and the world of computers!
+- Troubleshooting, tinkering, and optimizing systems
+
+## 🛠️ Favorite Projects
+- [Acidanthera/OpenCore](https://github.com/acidanthera/OpenCorePkg)
+- [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
+
+## 🌟 Fun Facts
+- I love combining my passion for aviation with my love for computers.
+- Always curious, always learning, always flying higher!
+
+---
+
+> “A good pilot is always learning—and so is a good coder.”
